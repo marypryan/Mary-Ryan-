@@ -1,3 +1,5 @@
+draw=function()
+{
 var eye size
 >eye size=20<;
 
@@ -17,3 +19,4 @@ fill (0,120,78);
 >strokeweight(21)<;
 >stroke (250,40,22)<;
 >line ( 83,116,274,74)<;
+}
