@@ -4,10 +4,11 @@
  first website 
   </title>
   <body>
-    <h1>About me </h1>
-    <h2> my journeey</h2>
+    <h1> About me </h1>
+    <h2> Myjourneey</h2>
     <h3> resources </h3>
-    body{
+   
+  body{
     background-color:green;
     color:#000000;
     
