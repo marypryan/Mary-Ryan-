@@ -1,23 +1,24 @@
 index.html
-draw=function()
 {
-var eye size
+  draw=function()
+
+  var eye size
 >eye size=20<;
 
 >background (128,0,0)<;
-//face
-fill((189,183,107);
-ellipse(202,208,300,300);
+  //face
+  fill((189,183,107);
+  ellipse(202,208,300,300);
 //eyes
-fill(0,0,0)
-ellipse(200,200,eyesize,eyesize);
-ellipse(212,250,eyesize,eyesize);
+  fill(0,0,0)
+  ellipse(200,200,eyesize,eyesize);
+  ellipse(212,250,eyesize,eyesize);
 
 //mouth
-fill (0,120,78);
+  fill (0,120,78);
 
 //head band 
->strokeweight(21)<;
->stroke (250,40,22)<;
->line ( 83,116,274,74)<;
+  >strokeweight(21)<;
+  >stroke (250,40,22)<;
+  >line ( 83,116,274,74)<;
 }
