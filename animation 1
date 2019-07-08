@@ -1,4 +1,4 @@
-index.html
+<html>
 {
   draw=function()
 
@@ -22,3 +22,4 @@ index.html
   >stroke (250,40,22)<;
   >line ( 83,116,274,74)<;
 }
+</html>
