@@ -1,8 +1,15 @@
 <html>
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+</div>
+
 draw=function()
 {
 var eye size
- >eye size=20<;
+  >eye size=20<;
 
 >background (128,0,0)<;
 //face
